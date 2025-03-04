@@ -1,4 +1,4 @@
-# keuangan V1
+# Keuangan V1
 
 Pastikan Python sudah terinstal, lalu instal Django menggunakan pip:
 <br>
