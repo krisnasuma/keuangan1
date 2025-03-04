@@ -36,5 +36,11 @@ Fitur Menengah
 6. Ekspor Data
 * Menambahkan fitur ekspor data transaksi ke dalam format CSV, sehingga bisa dibuka menggunakan Exel.
 
+# Tampilan
+
+![Sample Image](https://github.com/krisnasuma/keuangan1/blob/main/TampilaFormAddData.PNG)
+
+![Sample Image](https://github.com/krisnasuma/keuangan1/blob/main/TampilanV1.PNG)
+
 # Versi Sebelumnya
 * V0: https://github.com/krisnasuma/keuangan/
