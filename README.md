@@ -33,7 +33,7 @@ Fitur Menengah
 4. Pagination
 * Jika data transaksi banyak, menambahkan paginasi berguna untuk membatasi jumlah data yang ditampilkan per halaman.
   
-6. Ekspor Data
+5. Ekspor Data
 * Menambahkan fitur ekspor data transaksi ke dalam format CSV, sehingga bisa dibuka menggunakan Exel.
 
 # Tampilan
